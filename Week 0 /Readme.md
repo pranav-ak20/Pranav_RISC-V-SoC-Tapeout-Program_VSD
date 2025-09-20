@@ -40,10 +40,10 @@ The following tools were installed for RTL synthesis, simulation, circuit analys
 
    
 Follow the sections below to install each tool.
-<div align="center">
+
    
 ## 1. Icarus Verilog (iverilog)
-</div>
+
 
 Icarus Verilog is a Verilog compiler that generates a simulation.
 
