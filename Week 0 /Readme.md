@@ -97,7 +97,7 @@ or
 gtkwave
 ```
 <p align="center">
-  <img src="https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy/blob/main/Week0/assets/yosys_installed.png" 
+  <img src="https://github.com/pranav-ak20/Pranav_RISC-V-SoC-Tapeout-Program_VSD/blob/main/images/gtkwave_ver.png" 
        alt="Yosys Installed" width="600"/>
 </p>
 
@@ -180,7 +180,7 @@ or
 yosys
 ```
 <p align="center">
-  <img src="https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy/blob/main/Week0/assets/yosys_installed.png" 
+  <img src="https://github.com/pranav-ak20/Pranav_RISC-V-SoC-Tapeout-Program_VSD/blob/main/images/Yosys_ver.png" 
        alt="Yosys Installed" width="600"/>
 </p>
 
