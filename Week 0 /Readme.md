@@ -25,7 +25,7 @@ This repository contains documentation for setting up the necessary tools for th
 4. Conclusion
 ## Introduction
 This guide provides a step-by-step process for installing the open-source EDA tools required for hardware design and verification. These tools form a basic toolchain for synthesis, simulation, and waveform viewing.
-   ### ** Icarus Verilog (iverilog): ** A Verilog simulation and synthesis tool.
+   ### Icarus Verilog (iverilog): A Verilog simulation and synthesis tool.
    ### GTKWave: A fully featured GTK+ based wave viewer.
    ### Yosys: A framework for Verilog RTL synthesis.
 
@@ -37,7 +37,7 @@ sudo apt update
 ```
  sudo apt upgrade -y
 ```
-### ## ⚙️ **Tool Installation
+### ## ⚙️ Tool Installation
 The following tools were installed for RTL synthesis, simulation, circuit analysis, and layout design. Below are the installation steps.
 <div align="center">
    
