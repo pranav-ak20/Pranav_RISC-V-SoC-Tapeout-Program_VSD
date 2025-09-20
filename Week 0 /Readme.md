@@ -172,9 +172,9 @@ With these three tools installed, the basic environment for the VSD RISC-V Tapeo
 
 | Tool | Status | Primary Use |
 |------|--------|-------------|
-| 🧠 **Yosys** | ✅ Complete | RTL Synthesis |
-| 📟 **Iverilog** | ✅ Complete | Verilog Simulation |
-| 📊 **GTKWave** | ✅ Complete | Waveform Analysis |
+|  **Yosys** | ✅ | RTL Synthesis |
+|  **Iverilog** | ✅ | Verilog Simulation |
+|  **GTKWave** | ✅ | Waveform Analysis |
 
 ### 🚀 **Environment Ready for VLSI Design Frontend Journey!**
 
