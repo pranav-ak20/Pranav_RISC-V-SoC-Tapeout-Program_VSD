@@ -37,13 +37,16 @@ sudo apt update
 ```
  sudo apt upgrade -y
 ```
-### ## ⚙️ Tool Installation
+### ⚙️ Tool Installation
 The following tools were installed for RTL synthesis, simulation, circuit analysis, and layout design. Below are the installation steps.
-<div align="center">
+
    
 Follow the sections below to install each tool.
-
+<div align="center">
+   
 ### 1. Icarus Verilog (iverilog)
+</div>
+
 Icarus Verilog is a Verilog compiler that generates a simulation.
 ### Installation Command:
 ``` sudo apt install iverilog ```
