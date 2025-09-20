@@ -112,4 +112,4 @@ Stay tuned for upcoming weeks covering RTL design, synthesis, physical design, a
 [![RISC-V](https://img.shields.io/badge/RISC--V-International-green?style=flat-square)](https://riscv.org/)
 [![Efabless](https://img.shields.io/badge/Efabless-Platform-orange?style=flat-square)](https://efabless.com/)
 
-**👨‍💻 Participant:** [TheVoltageVikingRam](https://github.com/TheVoltageVikingRam)
+**👨‍💻 Participant:** [Pranav Akalankam](https://github.com/pranav-ak20
