@@ -65,7 +65,7 @@ iverilog -V
 ```
 <p align="center">
   <img src="https://github.com/pranav-ak20/Pranav_RISC-V-SoC-Tapeout-Program_VSD/blob/main/images/Iverilog_ver.png" 
-       alt="Yosys Installed" width="600"/>
+       alt="Iverilog Installed" width="600"/>
 </p>
 
 
@@ -88,7 +88,7 @@ sudo apt install gtkwave -y
 ```
 <p align="center">
   <img src="https://github.com/pranav-ak20/Pranav_RISC-V-SoC-Tapeout-Program_VSD/blob/main/images/gtkwave_ins.png" 
-       alt="Yosys Installed" width="600"/>
+       alt="GTKwave Installed" width="600"/>
 </p>
 
 ###  **Installation Verification**
@@ -101,7 +101,7 @@ gtkwave
 ```
 <p align="center">
   <img src="https://github.com/pranav-ak20/Pranav_RISC-V-SoC-Tapeout-Program_VSD/blob/main/images/gtkwave_ver.png" 
-       alt="Yosys Installed" width="600"/>
+       alt="GTKwave Installed" width="600"/>
 </p>
 
 
@@ -207,7 +207,7 @@ sudo apt-get install ngspice
 
 <p align="center">
   <img src="https://github.com/pranav-ak20/Pranav_RISC-V-SoC-Tapeout-Program_VSD/blob/main/images/ngspice_ins.png" 
-       alt="Yosys Installed" width="600"/>
+       alt="NGspice Installed" width="600"/>
 </p>
 
 
@@ -223,7 +223,7 @@ ngspice
 ```
 <p align="center">
   <img src="https://github.com/pranav-ak20/Pranav_RISC-V-SoC-Tapeout-Program_VSD/blob/main/images/ngspice_ver.png" 
-       alt="Yosys Installed" width="600"/>
+       alt="NGspice Installed" width="600"/>
 </p>
 
 
@@ -268,22 +268,22 @@ sudo make install
 
 <p align="center">
   <img src="https://github.com/pranav-ak20/Pranav_RISC-V-SoC-Tapeout-Program_VSD/blob/main/images/magic_ins.png" 
-       alt="Yosys Installed" width="600"/>
+       alt="Magic Installed" width="600"/>
 </p>
 
 <p align="center">
   <img src="https://github.com/pranav-ak20/Pranav_RISC-V-SoC-Tapeout-Program_VSD/blob/main/images/magic_ins2.png" 
-       alt="Yosys Installed" width="600"/>
+       alt="Magic Installed" width="600"/>
 </p>
 
 <p align="center">
   <img src="https://github.com/pranav-ak20/Pranav_RISC-V-SoC-Tapeout-Program_VSD/blob/main/images/magic_ins3.png" 
-       alt="Yosys Installed" width="600"/>
+       alt="Magic Installed" width="600"/>
 </p>
 
 <p align="center">
   <img src="https://github.com/pranav-ak20/Pranav_RISC-V-SoC-Tapeout-Program_VSD/blob/main/images/magic_ins4.png" 
-       alt="Yosys Installed" width="600"/>
+       alt="Magic Installed" width="600"/>
 </p>
 
 
@@ -297,7 +297,7 @@ magic
 
 <p align="center">
   <img src="https://github.com/pranav-ak20/Pranav_RISC-V-SoC-Tapeout-Program_VSD/blob/main/images/magic_ver.png" 
-       alt="Yosys Installed" width="600"/>
+       alt="Magic Installed" width="600"/>
 </p>
 
 
