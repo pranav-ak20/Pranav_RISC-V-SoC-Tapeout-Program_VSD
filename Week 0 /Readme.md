@@ -191,8 +191,123 @@ yosys
 
 </div>
 
+## 4. NGspice
+
+ngspice is a mixed-level/mixed-signal circuit simulator.
+
+### Installation Command:
+
+```bash
+sudo apt-get install ngspice
+```
+
+
+<p align="center">
+  <img src="https://github.com/pranav-ak20/Pranav_RISC-V-SoC-Tapeout-Program_VSD/blob/main/images/ngspice_ins.png" 
+       alt="Yosys Installed" width="600"/>
+</p>
+
+
+
+
+###  **Installation Verification**
+```bash
+ngspice -v
+```
+or
+```bash
+ngspice
+```
+<p align="center">
+  <img src="https://github.com/pranav-ak20/Pranav_RISC-V-SoC-Tapeout-Program_VSD/blob/main/images/ngspice_ver.png" 
+       alt="Yosys Installed" width="600"/>
+</p>
+
+
+<div align="center">
+
+ **NGspice Successfully Installed**
+
+</div>
+
+
+## 4. Magic VLSI
+
+Magic is a VLSI layout editor.
+
+### Installation Command:
+First, install the required dependencies.
+
+```bash
+sudo apt-get install m4 tcsh csh libx11-dev tcl-dev tk-dev \
+libcairo2-dev libglu1-mesa-dev
+```
+Next, clone the repository and build from source.
+
+```bash
+# Clone the repository
+git clone [https://github.com/RTimothyEdwards/magic.git](https://github.com/RTimothyEdwards/magic.git)
+
+# Navigate into the directory
+cd magic
+
+# Configure the build
+./configure
+
+# Build Magic
+make
+
+# Install Magic system-wide
+sudo make install
+```
+
+
+
+<p align="center">
+  <img src="https://github.com/pranav-ak20/Pranav_RISC-V-SoC-Tapeout-Program_VSD/blob/main/images/magic_ins.png" 
+       alt="Yosys Installed" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/pranav-ak20/Pranav_RISC-V-SoC-Tapeout-Program_VSD/blob/main/images/magic_ins2.png" 
+       alt="Yosys Installed" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/pranav-ak20/Pranav_RISC-V-SoC-Tapeout-Program_VSD/blob/main/images/magic_ins3.png" 
+       alt="Yosys Installed" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/pranav-ak20/Pranav_RISC-V-SoC-Tapeout-Program_VSD/blob/main/images/magic_ins4.png" 
+       alt="Yosys Installed" width="600"/>
+</p>
+
+
+
+
+
+###  **Installation Verification**
+```bash
+magic
+```
+
+<p align="center">
+  <img src="https://github.com/pranav-ak20/Pranav_RISC-V-SoC-Tapeout-Program_VSD/blob/main/images/magic_ver.png" 
+       alt="Yosys Installed" width="600"/>
+</p>
+
+
+<div align="center">
+
+ **MAGIC VLSI Successfully Installed**
+
+</div>
+
+
+
 ## Conclusion
-With these three tools installed, the basic environment for the VSD RISC-V Tapeout program is now set up. You can now proceed with the synthesis and simulation tasks.
+With these five tools installed, the basic environment for the VSD RISC-V Tapeout program is now set up. You can now proceed with the synthesis, simulation, and layout tasks.
 
 
 
@@ -205,8 +320,12 @@ With these three tools installed, the basic environment for the VSD RISC-V Tapeo
 |  **Yosys** | ✅ | RTL Synthesis |
 |  **Iverilog** | ✅ | Verilog Simulation |
 |  **GTKWave** | ✅ | Waveform Analysis |
+|  **Ngspice** | ✅ | Circuit Simulation |
+|  **Magic VLSI** | ✅ | Layout Design |
 
-###  **Environment Ready for VLSI Design Frontend Journey!**
+###  **Environment Ready for VLSI Design Journey!**
+
+
 
 
 </div>
