@@ -166,6 +166,20 @@ yosys
 ## Conclusion
 With these three tools installed, the basic environment for the VSD RISC-V Tapeout program is now set up. You can now proceed with the synthesis and simulation tasks.
 
+<div align="center">
+
+## 🎉 **Installation Summary**
+
+| Tool | Status | Primary Use |
+|------|--------|-------------|
+| 🧠 **Yosys** | ✅ Complete | RTL Synthesis |
+| 📟 **Iverilog** | ✅ Complete | Verilog Simulation |
+| 📊 **GTKWave** | ✅ Complete | Waveform Analysis |
+
+### 🚀 **Environment Ready for VLSI Design Frontend Journey!**
+
+</div>
+
 
 
 
