@@ -8,6 +8,7 @@
 
 </div>
 This repository contains documentation for setting up the necessary tools for the VSD RISC-V Tapeout Program. The guide covers the installation of Yosys, Icarus Verilog (iverilog), and GTKWave.
+
 ## Table of Contents
 1. Introduction
 
@@ -30,9 +31,14 @@ This guide provides a step-by-step process for installing the open-source EDA to
 
 ## Prerequisites
 This guide assumes you are using a Debian-based Linux distribution (like Ubuntu). Before starting, ensure your system is up-to-date.
-   ```sudo apt update ```bash
-   ``` sudo apt upgrade -y ```bash
-### Installation Steps
+```sudo apt update
+```
+``` sudo apt upgrade -y
+```
+### ## ⚙️ **Tool Installation
+The following tools were installed for RTL synthesis, simulation, circuit analysis, and layout design. Below are the installation steps.
+<div align="center">
+   
 Follow the sections below to install each tool.
 
 ### 1. Icarus Verilog (iverilog)
