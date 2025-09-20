@@ -110,7 +110,7 @@ gtkwave
 
 <div align="center">
    
-### 3. Yosys
+## 3. Yosys
 </div>
 Yosys is used for Verilog synthesis, converting RTL (Register Transfer Level) design into a gate-level netlist.
 
@@ -143,7 +143,7 @@ sudo make install
        alt="Yosys Installed" width="600"/>
 </p>
 
-## 📷 **Installation Verification**
+###  **Installation Verification**
 ```bash
 yosys --version
 ```
@@ -159,9 +159,12 @@ yosys
 
 <div align="center">
 
-✅ **Yosys Successfully Installed**
+ **Yosys Successfully Installed**
 
 </div>
+
+## Conclusion
+With these three tools installed, the basic environment for the VSD RISC-V Tapeout program is now set up. You can now proceed with the synthesis and simulation tasks.
 
 
 
