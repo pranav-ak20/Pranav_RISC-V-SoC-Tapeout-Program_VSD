@@ -52,7 +52,7 @@ Icarus Verilog is a Verilog compiler that generates a simulation.
 sudo apt install iverilog -y
 ```
 <p align="center">
-  <img src="iverilog_ins.png" 
+  <img src="https://github.com/pranav-ak20/Pranav_RISC-V-SoC-Tapeout-Program_VSD/blob/main/images/iverilog_ins.png" 
        alt="Iverilog Installed" width="600"/>
 </p>
 
