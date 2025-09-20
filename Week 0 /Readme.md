@@ -51,11 +51,17 @@ Icarus Verilog is a Verilog compiler that generates a simulation.
 ```bash
 sudo apt install iverilog -y
 ```
+<p align="center">
+  <img src="https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy/blob/main/Week0/assets/yosys_installed.png" 
+       alt="Yosys Installed" width="600"/>
+</p>
+
 ## 📷 **Installation Verification**
 <p align="center">
   <img src="https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy/blob/main/Week0/assets/yosys_installed.png" 
        alt="Yosys Installed" width="600"/>
 </p>
+
 
 <div align="center">
 
