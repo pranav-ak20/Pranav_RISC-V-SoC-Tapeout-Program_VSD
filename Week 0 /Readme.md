@@ -104,7 +104,7 @@ gtkwave
 
 <div align="center">
 
-✅ **GTKwave Successfully Installed**
+ **GTKwave Successfully Installed**
 
 </div>
 
