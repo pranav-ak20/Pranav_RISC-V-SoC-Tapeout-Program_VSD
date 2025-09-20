@@ -108,6 +108,63 @@ gtkwave
 
 </div>
 
+<div align="center">
+   
+### 3. Yosys
+</div>
+Yosys is used for Verilog synthesis, converting RTL (Register Transfer Level) design into a gate-level netlist.
+
+### Installation Command:
+First, install the dependencies required to build Yosys from the source.
+
+```bash
+sudo apt-get install build-essential clang bison flex \
+libreadline-dev gawk tcl-dev libffi-dev git \
+graphviz xdot pkg-config python3 libboost-system-dev \
+libboost-python-dev libboost-filesystem-dev zlib1g-dev
+```
+Next, clone the Yosys repository and build it.
+```bash
+# Clone the repository
+git clone [https://github.com/YosysHQ/yosys.git](https://github.com/YosysHQ/yosys.git)
+
+# Navigate into the directory
+cd yosys
+
+# Build Yosys
+make
+
+# Install Yosys system-wide
+sudo make install
+```
+
+<p align="center">
+  <img src="https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy/blob/main/Week0/assets/yosys_installed.png" 
+       alt="Yosys Installed" width="600"/>
+</p>
+
+## 📷 **Installation Verification**
+```bash
+yosys --version
+```
+or
+```bash
+yosys
+```
+<p align="center">
+  <img src="https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy/blob/main/Week0/assets/yosys_installed.png" 
+       alt="Yosys Installed" width="600"/>
+</p>
+
+
+<div align="center">
+
+✅ **Yosys Successfully Installed**
+
+</div>
+
+
+
 
 
 
