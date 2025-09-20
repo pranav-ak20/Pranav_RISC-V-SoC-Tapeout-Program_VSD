@@ -49,6 +49,6 @@ Icarus Verilog is a Verilog compiler that generates a simulation.
 
 ### Installation Command:
 ```bash
-sudo apt install iverilog
+sudo apt install iverilog -y
 ```
 
