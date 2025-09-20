@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 
 </div>
-This repository contains documentation for setting up the necessary tools for the VSD RISC-V Tapeout Program. The guide covers the installation of Yosys, Icarus Verilog (iverilog), and GTKWave.
+This repository contains documentation for setting up the necessary tools for the VSD RISC-V Tapeout Program. The guide covers the installation of Yosys, Icarus Verilog (iverilog), GTKWave, ngspice, and Magic.
 
 ## Table of Contents
 1. Introduction
@@ -22,13 +22,16 @@ This repository contains documentation for setting up the necessary tools for th
 
    . Yosys
 
-4. Conclusion
-## Introduction
-This guide provides a step-by-step process for installing the open-source EDA tools required for hardware design and verification. These tools form a basic toolchain for synthesis, simulation, and waveform viewing.
-   ### Icarus Verilog (iverilog): A Verilog simulation and synthesis tool.
-   ### GTKWave: A fully featured GTK+ based wave viewer.
-   ### Yosys: A framework for Verilog RTL synthesis.
+   . NGspice
 
+   . Magic
+
+5. Conclusion
+
+## Introduction
+This guide provides a step-by-step process for installing the open-source EDA tools required for hardware design and verification. These tools form a basic toolchain for synthesis, simulation, and layout.
+  
+   
 ## Prerequisites
 This guide assumes you are using a Debian-based Linux distribution (like Ubuntu). Before starting, ensure your system is up-to-date.
 ```bash
