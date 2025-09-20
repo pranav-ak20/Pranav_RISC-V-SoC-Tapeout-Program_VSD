@@ -1,4 +1,12 @@
 # 🚀 Week 0: VLSI System Design (VSD) Program Foundation & Tool Setup
+
+<div align="center">
+
+![VLSI](https://img.shields.io/badge/VLSI-System%20Design-blue?style=for-the-badge&logo=chip)
+![Week](https://img.shields.io/badge/Week-0-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
+
+</div>
 This repository contains documentation for setting up the necessary tools for the VSD RISC-V Tapeout Program. The guide covers the installation of Yosys, Icarus Verilog (iverilog), and GTKWave.
 ## Table of Contents
 1. Introduction
