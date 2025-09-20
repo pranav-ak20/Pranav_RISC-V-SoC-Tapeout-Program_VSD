@@ -22,12 +22,13 @@ This guide provides a step-by-step process for installing the open-source EDA to
 
 ## Prerequisites
 This guide assumes you are using a Debian-based Linux distribution (like Ubuntu). Before starting, ensure your system is up-to-date.
-``` sudo apt update ```
-``` sudo apt upgrade ```
+``` sudo apt update
+   sudo apt upgrade -y ```
 ## Installation Steps
 Follow the sections below to install each tool.
 
 ### 1. Icarus Verilog (iverilog)
 Icarus Verilog is a Verilog compiler that generates a simulation.
 ### Installation Command:
-``` sudo apt install iverilog 
+``` sudo apt install iverilog ```
+
